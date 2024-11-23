@@ -32,7 +32,7 @@ html_static_path = ['_static', '_static/css/custom.css']
 html_show_sourcelink = False
 
 html_theme_options = {
-    'logo': 'logo_codebim.png',
+    'logo': 'CodeBIM_Logo.png',
     'logo_name': True,
     'logo_text_align': 'center',
     'font_family': 'Segoe UI',
